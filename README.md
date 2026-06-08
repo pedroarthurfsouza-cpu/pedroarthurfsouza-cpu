@@ -62,9 +62,3 @@ Tenho interesse especial em Cybersecurity, mas ainda estou explorando diferentes
 - Fortalecer meus conhecimentos em Linux e Redes
 - Aprender mais sobre Segurança Ofensiva e Defensiva
 - Conseguir minha primeira oportunidade na área de tecnologia
-
----
-
-## 📫 Contato
-
-- LinkedIn: [https://www.linkedin.com/in/pedro-arthur-souza-8955a13b9/]
