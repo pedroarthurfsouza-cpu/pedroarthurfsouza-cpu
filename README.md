@@ -14,8 +14,7 @@ Tenho interesse especial em Cybersecurity, mas ainda estou explorando diferentes
 - 🔐 Estudando Cybersecurity pela Cisco Networking Academy
 - 🏛️ Participando dos cursos Hackers do Bem
 - 🌐 Aprendendo Desenvolvimento Web
-- 🐧 Iniciando meus estudos em Linux
-- 🖥️ Desenvolvendo minhas habilidades em programação
+- 🛠️ Estagiário de Suporte de TI e Operações no Instituto Euvaldo Lode
 
 ---
 
@@ -43,6 +42,7 @@ Tenho interesse especial em Cybersecurity, mas ainda estou explorando diferentes
 ### Estudando Atualmente
 
 - Linux
+- Java
 - JavaScript
 - Redes de Computadores
 - Cybersecurity
