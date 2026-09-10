@@ -51,7 +51,15 @@ Tenho interesse especial em Cybersecurity, mas ainda estou explorando diferentes
 
 ## 📜 Certificações
 
-[![Introduction to Cybersecurity](https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/6e44d336-9938-4908-944a-08c2fe7be147/public_url)
+<p align="center">
+  <a href="https://www.credly.com/badges/6e44d336-9938-4908-944a-08c2fe7be147/public_url">
+    <img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120" alt="Introduction to Cybersecurity">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/72fe020f-337f-4fe7-a734-7966b33d2b30/public_url">
+    <img src="https://images.credly.com/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" width="120" alt="Cybersecurity Fundamentals">
+  </a>
+</p>
 
 ---
 
