@@ -51,19 +51,7 @@ Tenho interesse especial em Cybersecurity, mas ainda estou explorando diferentes
 
 ## 📜 Certificações
 
-<p align="center">
-  <a href="https://www.credly.com/badges/6e44d336-9938-4908-944a-08c2fe7be147/public_url">
-    <img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150" alt="Introduction to Cybersecurity">
-  </a>
-
-  <a href="https://www.credly.com/badges/72fe020f-337f-4fe7-a734-7966b33d2b30/public_url">
-    <img src="https://images.credly.com/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" width="150" alt="Cybersecurity Fundamentals">
-  </a>
-
-  <a href="https://www.credly.com/badges/cab4e095-4d13-4e89-909a-26ed9ab801d7/public_url">
-    <img src="https://images.credly.com/images/92d90000-9c96-4dbd-a37d-8c47bf338bca/blob" width="150" alt="Digital Safety and Security Awareness">
-  </a>
-</p>
+<p align="center"><a href="https://www.credly.com/badges/6e44d336-9938-4908-944a-08c2fe7be147/public_url"><img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150" alt="Introduction to Cybersecurity"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/72fe020f-337f-4fe7-a734-7966b33d2b30/public_url"><img src="https://images.credly.com/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" width="150" alt="Cybersecurity Fundamentals"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/cab4e095-4d13-4e89-909a-26ed9ab801d7/public_url"><img src="https://images.credly.com/images/92d90000-9c96-4dbd-a37d-8c47bf338bca/blob" width="150" alt="Digital Safety and Security Awareness"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/0e75052f-a8b6-415e-b68b-df69e29e524d/public_url"><img src="https://images.credly.com/images/474a03c6-b5e1-44df-b313-adf0fed6c531/blob" width="150" alt="Suporte de TI"></a></p>
 ---
 
 ## 🎯 Objetivos para 2026
