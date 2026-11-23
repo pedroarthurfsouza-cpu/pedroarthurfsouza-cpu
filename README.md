@@ -10,7 +10,6 @@ Cybersecurity é o que mais me puxa, mas ainda tô explorando antes de escolher 
 
 - Fazendo estágio em Suporte de TI e Operações no Instituto Euvaldo Lodi, onde a teoria encontra o "tá tudo travado, me ajuda"
 - Estudando Cybersecurity pela Cisco Networking Academy
-- Fazendo os cursos do Hackers do Bem
 - Aprendendo desenvolvimento web
 - Tentando sobreviver à faculdade (com sucesso, até agora)
 
